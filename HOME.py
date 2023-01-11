@@ -20,5 +20,7 @@ st.markdown(":mega::mega::mega::mega::mega::mega::mega::mega::mega::mega::mega::
 
 st.write(" ")
 
+list_info = []
+
 for total in todos:
     st.warning(total)
